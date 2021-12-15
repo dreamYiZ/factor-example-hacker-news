@@ -1,1 +1,1 @@
-web: npx factor server
+web: npm start
