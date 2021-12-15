@@ -1,0 +1,10 @@
+
+FACTOR_ADMINS='dreamyiz@outlook.com'
+
+DB_CONNECTION=''
+
+TOKEN_SECRECT='sdflksadjf'
+
+
+
+FACTOR_SERVER_URL='https://factorjs.herokuapp.com/'
